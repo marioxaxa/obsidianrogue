@@ -1,0 +1,3 @@
+- Rolamento?
+- Double jump?
+- Unlockables?

@@ -11,12 +11,8 @@
             "id": "2a1b911ccb974112",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +140,21 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2a1b911ccb974112",
+  "active": "636052755dc92f55",
   "lastOpenFiles": [
+    "Mobs por areas.md",
+    "Lama movediça.md",
+    "Ideia basica do jogo.md",
+    "Duvidas.md",
+    "Caranguejo.md",
+    "Mobs/Sem título.md",
+    "Mobs/Passaro bobo.md",
+    "Mobs",
+    "ideias/competitivo.md",
+    "ideias",
+    "Areas/Manguezal.md",
+    "Areas/Gruta.md",
+    "Areas",
     "teste.md",
     "teste.md",
     "Sem título"
