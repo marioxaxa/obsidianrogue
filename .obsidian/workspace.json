@@ -11,8 +11,12 @@
             "id": "2a1b911ccb974112",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "diferenciaç.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "diferenciaç.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "diferenciaç.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste.md"
+                "file": "diferenciaç.md"
               }
             }
           }
@@ -140,8 +146,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "636052755dc92f55",
+  "active": "2a1b911ccb974112",
   "lastOpenFiles": [
+    "teste.md",
+    "diferenciaç.md",
     "Mobs por areas.md",
     "Lama movediça.md",
     "Ideia basica do jogo.md",
@@ -155,8 +163,6 @@
     "Areas/Manguezal.md",
     "Areas/Gruta.md",
     "Areas",
-    "teste.md",
-    "teste.md",
     "Sem título"
   ]
 }
