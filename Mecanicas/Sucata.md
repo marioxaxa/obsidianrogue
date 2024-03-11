@@ -1,0 +1,1 @@
+Sucata é um recurso achado na dungeon que serve como moeda de troca com a [[Loja]] e possíveis outros lugares

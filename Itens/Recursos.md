@@ -1,0 +1,1 @@
+Recursos são usados para produzir itens ou para trocar por [[Sucata]] na [[Loja]]
