@@ -39,8 +39,7 @@ Ver a possibilidade de andares Tridimensionais (Isso seria MUITO foda mas talvez
 
 ### Multiplayer
 O melhor caso seria possibilitar um coop de 4 players. 
-Nesse caso a enciclopédia e os [[Itens]] liberados seria unificado entre os players, então se 1 player possui o unlock de um item todos irão possuir.
-
+Nesse caso a [[Enciclopedia]] e os [[Itens]] liberados seria unificado entre os players, então se 1 player possui o unlock de um item todos irão possuir.
 
 
 
@@ -54,3 +53,10 @@ Visuais mais voltados para o lowpoly (e cartoonesco)
 ## Narrativa
 Narrativa contada através de itens e alguns poucos npcs
 Não é o foco do jogo então não irei me preocupar agora
+
+> *A dungeon é um labirinto antigo onde as lendas dizem que é prometido poderes e riquezas para aqueles que vencerem seus desafios. Diante disso muitos entraram nela, deixando pedaços de sua historia para trás, porém poucos saíram.*
+
+Seria interessante apresentar diversos contos sobre as aventuras que ocorreram na dungeon através dos [[Itens]].
+
+Algo como um item que seja um osso de brinquedo e na descrição dele conta um trecho da historia de um garoto que entrou na dungeon com seu cachorro.
+
