@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "93b645bb6ffb24af",
+    "type": "split",
+    "children": [
+      {
+        "id": "f53d67f80c4b4cba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e02e1def4a3de43f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mecanicas/Enciclopedia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "94280b9e980cdd03",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fee4e37887288176",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f836ab234d2937ea",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f84866543f95c6de",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "2995b282eb6cc105",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "daa8fbf095a50693",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0de19937ebe0ea4a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Mecanicas/Enciclopedia.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2db06fc7ebba19f0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Mecanicas/Enciclopedia.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "244a8742649501b5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Mecanicas/Enciclopedia.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "e02e1def4a3de43f",
+  "lastOpenFiles": [
+    "Coletaveis/Item.md",
+    "Mecanicas/Enciclopedia.md",
+    "Mecanicas/Forja.md",
+    "Coletaveis/Recursos.md",
+    "Mecanicas/Player.md",
+    "ideias/Ideia basica do jogo.md",
+    "Dungeon/Salas.md",
+    "Dungeon/Loja.md",
+    "Dungeon/Areas/Manguezal.md",
+    "Dungeon/Areas/Gruta.md",
+    "Dungeon/Andar.md",
+    "/ideias/Ideia basica do jogo.md",
+    "/Dungeon/Salas.md",
+    "/Dungeon/Loja.md",
+    "/Dungeon/Areas/Manguezal.md",
+    "/Dungeon/Areas/Gruta.md",
+    "/Dungeon/Andar.md",
+    "Dungeon/Areas",
+    "/Dungeon/Areas",
+    "ideias/competitivo.md",
+    "TODO LIST.md",
+    "Dungeon/Salas/Loja.md",
+    "Mecanicas/Sucata.md",
+    "imagens/Pasted image 20240311031349.png",
+    "Dungeon",
+    "Dungeon/Salas/Salas.md",
+    "Mobs/Mobs.md",
+    "Mobs/Mobs por areas.md",
+    "Mobs/Caranguejo.md",
+    "/imagens/Pasted image 20240311031349.png",
+    "/TODO LIST.md",
+    "imagens",
+    "Dungeon/Salas",
+    "Mecanicas",
+    "Coletaveis",
+    "/imagens",
+    "/Salas",
+    "/Mecanicas"
+  ]
+}

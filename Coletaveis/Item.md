@@ -1,7 +1,9 @@
 Itens são os powerups produzidos a partir de [[Recursos]] que os players podem coletar dos [[Mobs]] ou da dungeon em si.
 Serão divididos em 3 categorias
 
-#### Passivos
+
+## Tipos de itens
+### Passivos
 Itens de efeito constantes
 
 #### Ativos

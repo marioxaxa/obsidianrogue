@@ -1,4 +1,4 @@
-É um roguelike onde seu objetivo é vencer a dungeon usando [[Itens]] feitos com os drops de [[Mobs]] .
+É um roguelike onde seu objetivo é vencer a dungeon usando [[Item]]feitos com os drops de [[Mobs]] .
 
 
 ## Gameplay
@@ -10,7 +10,7 @@ O jogo é em terceira pessoa com uma camera estilo [risk of rain 2](https://stor
 Inicialmente será apenas um WASD com pulo básico porém o player poderá ter upgrades que modifiquem isso.
 
 ### Combate 
-Inicialmente o player terá uma arma que vai atirar "bolinhas". A velocidade do projétil é baixa inicialmente.
+Inicialmente o [[Player]] terá uma arma que vai atirar "bolinhas". A velocidade do projétil é baixa inicialmente.
 
 #### Inimigos
 ~~Bullet hell~~
@@ -20,7 +20,7 @@ Acho que vai mais pra um isaac 3D
 
 
 ### Progressão
-Dentro das runs as progressões serão feitas a partir dos [[Itens]] que o player vai fabricar a partir dos drops dos [[Mobs]]. 
+Dentro das runs as progressões serão feitas a partir d[[Item]]]] que o player vai fabricar a partir dos drops dos [[Mobs]]. 
 Entre runs a progressão será feita no estilo [Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/), onde a partir de certas conquistas o player vai liberar mais itens para ser fabricado na [[Enciclopedia]].
 
 Também tomando [Isaac](https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/) como inspiração, ao zerar o jogo o player liberará novos boses aumentando assim o final do jogo.
@@ -39,7 +39,7 @@ Ver a possibilidade de andares Tridimensionais (Isso seria MUITO foda mas talvez
 
 ### Multiplayer
 O melhor caso seria possibilitar um coop de 4 players. 
-Nesse caso a [[Enciclopedia]] e os [[Itens]] liberados seria unificado entre os players, então se 1 player possui o unlock de um item todos irão possuir.
+Nesse caso a [[Enciclopedia]] e o[[Item]]] liberados seria unificado entre os players, então se 1 player possui o unlock de um item todos irão possuir.
 
 
 
@@ -56,7 +56,7 @@ Não é o foco do jogo então não irei me preocupar agora
 
 > *A dungeon é um labirinto antigo onde as lendas dizem que é prometido poderes e riquezas para aqueles que vencerem seus desafios. Diante disso muitos entraram nela, deixando pedaços de sua historia para trás, porém poucos saíram.*
 
-Seria interessante apresentar diversos contos sobre as aventuras que ocorreram na dungeon através dos [[Itens]].
+Seria interessante apresentar diversos contos sobre as aventuras que ocorreram na dungeon através dos[[Item]].
 
 Algo como um item que seja um osso de brinquedo e na descrição dele conta um trecho da historia de um garoto que entrou na dungeon com seu cachorro.
 
