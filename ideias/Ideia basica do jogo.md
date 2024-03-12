@@ -1,4 +1,4 @@
-É um roguelike onde seu objetivo é vencer a dungeon usando [[Item]]feitos com os drops de [[Mobs]] .
+É um roguelike onde seu objetivo é vencer a dungeon usando [[Item]] feitos com os drops de [[Mobs]] .
 
 
 ## Gameplay

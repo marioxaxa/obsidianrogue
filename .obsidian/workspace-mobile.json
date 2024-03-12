@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mecanicas/Enciclopedia.md",
+                "file": "Coletaveis/Item.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22822c56fcb9785d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dungeon/Andar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mecanicas/Enciclopedia.md",
+            "file": "Dungeon/Andar.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mecanicas/Enciclopedia.md",
+            "file": "Dungeon/Andar.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mecanicas/Enciclopedia.md"
+            "file": "Dungeon/Andar.md"
           }
         }
       }
@@ -123,26 +136,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publicar mudanças": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "e02e1def4a3de43f",
+  "active": "22822c56fcb9785d",
   "lastOpenFiles": [
+    "Dungeon/Zonas/Gruta.md",
+    "Dungeon/Zona.md",
+    "Mecanicas/Player.md",
+    "Coletaveis/Ideias de itens/Peso de bolso.md",
+    "ideias/Ideia basica do jogo.md",
     "Coletaveis/Item.md",
+    "Coletaveis/Ideias de itens",
     "Mecanicas/Enciclopedia.md",
     "Mecanicas/Forja.md",
     "Coletaveis/Recursos.md",
-    "Mecanicas/Player.md",
-    "ideias/Ideia basica do jogo.md",
     "Dungeon/Salas.md",
     "Dungeon/Loja.md",
-    "Dungeon/Areas/Manguezal.md",
-    "Dungeon/Areas/Gruta.md",
+    "Dungeon/Zonas/Manguezal.md",
     "Dungeon/Andar.md",
     "/ideias/Ideia basica do jogo.md",
     "/Dungeon/Salas.md",
@@ -150,7 +166,7 @@
     "/Dungeon/Areas/Manguezal.md",
     "/Dungeon/Areas/Gruta.md",
     "/Dungeon/Andar.md",
-    "Dungeon/Areas",
+    "Dungeon/Zonas",
     "/Dungeon/Areas",
     "ideias/competitivo.md",
     "TODO LIST.md",
@@ -161,15 +177,12 @@
     "Dungeon/Salas/Salas.md",
     "Mobs/Mobs.md",
     "Mobs/Mobs por areas.md",
-    "Mobs/Caranguejo.md",
     "/imagens/Pasted image 20240311031349.png",
-    "/TODO LIST.md",
     "imagens",
     "Dungeon/Salas",
     "Mecanicas",
     "Coletaveis",
     "/imagens",
-    "/Salas",
-    "/Mecanicas"
+    "/Salas"
   ]
 }
